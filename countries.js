@@ -1,27 +1,17 @@
 countries = [
-  'brazil',
-  'ecuador',
-  'chile',
-  'argentina',
-  'uruguay',
-  'peru',
-  'bolivia',
-  'usa',
-  'ireland',
-  'britain',
-  'france',
-  'italy',
-  'netherlands',
-  'czech',
+  'turkey',
+  'thrace',
   'belgium',
   'spain',
-  'germany',
-  'haiti',
-  'south_africa',
-  'uganda',
-  'mozambique',
-  'nigeria',
-  'india'
+  'luxemburg',
+  'britain',
+  'france',
+  'ireland',
+  'iceland',
+  'switzerland',
+  'italy',
+  'iceland',
+  'portugal'
 ]
 
 countriesSigla = "AFAXALDZASADAOAIAQAGARAMAWAUATAZBSBHBDBBBYBEBZBJBMBTBOBQBABWBRIOBNBGBFBIKHCMCACVKYCFTDCLCNCXCCCOKMCGCDCKCRCIHRCUCWCYCZDKDJDMDOECEGSVGQEREEETFKFOFJFIFRGFPFTFGAGMGEDEGHGIGRGLGDGPGUGTGGGNGWGYHTHMVAHNHKHUISINIDXZIRIQIEIMILITJMJPJEJOKZKEKIKPKRKWKGLALVLBLSLRLYLILTLUMOMKMGMWMYMVMLMTMHMQMRMUYTMXFMMDMCMNMEMSMAMZMMNANRNPNLNCNZNINENGNUNFMPNOOMPKPWPSPAPGPYPEPHPNPLPTPRQARERORURWBLSHKNLCMFPMVCWSSMSTSASNRSSCSLSGSXSKSISBSOZAGSSSESLKSDSRSJSZSECHSYTWTJTZTHTLTGTKTOTTTNTRTMTCTVUGUAAEGBUSUMUYUZVUVEVNVGVIWFEHYEZMZW";
